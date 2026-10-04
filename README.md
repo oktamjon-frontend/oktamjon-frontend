@@ -2,464 +2,404 @@
 
 # ⚡ O'KTAMJON
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=FRONTEND+DEVELOPER;HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT;CREATIVE+UI+BUILDER;CODE+%E2%80%A2+DESIGN+%E2%80%A2+CREATE" />
+<img src="./assets/18_frontend.gif" width="100%">
 
-<br>
+### FRONTEND DEVELOPER
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20,24&text=FRONTEND%20UNIVERSE&fontColor=ffffff&fontSize=42&animation=twinkling&fontAlignY=35"/>
+**HTML • CSS • JavaScript • React**
+
+`Creative UI` • `Responsive Design` • `Web Animation` • `UI/UX`
 
 </div>
 
 ---
 
-# 🟣 01 — FRONTEND IDENTITY
+## 🧱 HTML — WEB STRUCTURE
 
-<div align="center">
+<img src="./assets/01_html.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=1700&pause=500&color=BF5FFF&center=true&vCenter=true&width=800&lines=%3C+FRONTEND+DEVELOPER+%2F%3E;Building+beautiful+interfaces;Turning+ideas+into+websites;Creating+interactive+experiences" />
+HTML orqali **semantic structure**, formalar, accessibility va toza web strukturaga e'tibor beraman.
 
-</div>
+**Asosiy yo'nalishlar:**
+
+* Semantic HTML
+* Forms & Validation
+* Accessibility
+* SEO-friendly structure
+
+---
+
+## 🎨 CSS — VISUAL DESIGN
+
+<img src="./assets/02_css.gif" width="100%">
+
+CSS yordamida zamonaviy va responsive interfeyslar yarataman.
+
+**Ishlatadigan imkoniyatlar:**
+
+* Flexbox
+* CSS Grid
+* Responsive Design
+* Transitions
+* Keyframes
+* Hover Effects
+* Gradients
+
+---
+
+## ⚡ JAVASCRIPT — INTERACTION
+
+<img src="./assets/03_javascript.gif" width="100%">
+
+JavaScript bilan web sahifalarni interaktiv va dinamik qilaman.
+
+**Yo'nalishlar:**
+
+* ES6+
+* DOM
+* Events
+* Async / Await
+* Promises
+* API integration
+* Dynamic UI
+
+---
+
+## ⚛️ REACT — COMPONENT BASED UI
+
+<img src="./assets/04_react.gif" width="100%">
+
+React orqali qayta ishlatiladigan va tartibli UI komponentlar yarataman.
+
+**React:**
+
+* Components
+* Props
+* State
+* Hooks
+* Reusable UI
+* Component architecture
+
+---
+
+## 📱 RESPONSIVE DESIGN
+
+<img src="./assets/05_responsive.gif" width="100%">
+
+Bitta interfeys turli ekranlarda yaxshi ishlashi kerak.
+
+**Mobile → Tablet → Desktop**
+
+* Mobile-first
+* Flexible layouts
+* Responsive typography
+* Adaptive components
+* Cross-device UI
+
+---
+
+## 🎯 UI / UX
+
+<img src="./assets/06_ui___ux.gif" width="100%">
+
+Faqat chiroyli dizayn emas — **foydalanishga qulay interfeys** yaratishga e'tibor beraman.
+
+* Visual hierarchy
+* Typography
+* Spacing
+* Layout
+* User experience
+* Interactive elements
+
+---
+
+## ✨ CSS ANIMATIONS
+
+<img src="./assets/07_animations.gif" width="100%">
+
+Interfeysni jonlantirish uchun:
+
+* Transform
+* Transition
+* Keyframes
+* Hover animation
+* Micro-interactions
+* Smooth effects
+
+---
+
+## 🧩 REUSABLE COMPONENTS
+
+<img src="./assets/08_components.gif" width="100%">
+
+Frontend loyihalarda qayta ishlatiladigan komponentlar yarataman.
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                  FRONTEND DEVELOPER                 ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║   HTML       → Structure                             ║
-║   CSS        → Visuals                               ║
-║   JavaScript → Logic                                 ║
-║   React      → Components                            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+Navbar
+   ↓
+Button
+   ↓
+Card
+   ↓
+Modal
+   ↓
+Form
+   ↓
+Footer
 ```
+
+Maqsad — **kamroq takroriy kod, ko'proq reusable UI**.
 
 ---
 
-# 🔵 02 — HTML CORE
+## 💻 FRONTEND TERMINAL
 
-<div align="center">
+<img src="./assets/09_terminal.gif" width="100%">
 
-<img src="https://skillicons.dev/icons?i=html" width="110">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1400&pause=400&color=FF6B35&center=true&vCenter=true&width=700&lines=%3CHTML%3E;Semantic+Structure;Accessible+Markup;Clean+Components;%3C%2FHTML%3E" />
-
-</div>
-
-```html
-<section class="hero">
-
-    <h1>Frontend Developer</h1>
-
-    <p>
-        Clean structure.
-        Semantic HTML.
-        Better web.
-    </p>
-
-    <button>
-        Explore
-    </button>
-
-</section>
-```
-
----
-
-# 💙 03 — CSS LAB
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=css" width="110">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1300&pause=350&color=38BDF8&center=true&vCenter=true&width=750&lines=CSS+LAB;Gradient;Glassmorphism;Responsive+Design;Animations;Hover+Effects" />
-
-</div>
-
-```css
-.frontend-card {
-
-    background:
-        linear-gradient(
-            135deg,
-            #00f5ff,
-            #7c3aed,
-            #ec4899
-        );
-
-    border-radius: 24px;
-
-    box-shadow:
-        0 0 25px #00f5ff,
-        0 0 60px #7c3aed;
-
-    transition: .4s;
-}
-
-.frontend-card:hover {
-    transform:
-        translateY(-12px)
-        scale(1.03);
-}
-```
-
----
-
-# 🟡 04 — JAVASCRIPT ENGINE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript" width="110">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1100&pause=300&color=FFE600&center=true&vCenter=true&width=750&lines=JAVASCRIPT+ENGINE;DOM;Events;Async;APIs;Logic;Interaction" />
-
-</div>
-
-```javascript
-const frontend = {
-
-    name: "O'ktamjon",
-
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React"
-    ],
-
-    create() {
-        return "Beautiful UI 🚀";
-    }
-};
-
-console.log(frontend.create());
-```
-
----
-
-# ⚛️ 05 — REACT CORE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="110">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=250&color=61DAFB&center=true&vCenter=true&width=800&lines=REACT+CORE;Components;Props;State;Hooks;Reusable+UI;Modern+Frontend" />
-
-</div>
-
-```jsx
-function Developer() {
-
-    return (
-        <main>
-
-            <h1>
-                O'ktamjon
-            </h1>
-
-            <p>
-                Frontend Developer
-            </p>
-
-            <div>
-                HTML + CSS +
-                JavaScript + React
-            </div>
-
-        </main>
-    );
-}
-```
-
----
-
-# 🌈 06 — SKILL MATRIX
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=900&pause=200&color=00F5FF&center=true&vCenter=true&width=800&lines=SKILL+MATRIX;INITIALIZING...;HTML+%5B%23%23%23%23%23%23%23%23%23%23%5D;CSS+%5B%23%23%23%23%23%23%23%23%23%23%5D;JAVASCRIPT+%5B%23%23%23%23%23%23%23%23%23%5D;REACT+%5B%23%23%23%23%23%23%23%23%23%5D" />
-
-</div>
-
-```text
-HTML          ████████████████████  100%
-CSS           ███████████████████░   95%
-JavaScript    ██████████████████░░   90%
-React         █████████████████░░░   85%
-Responsive    ███████████████████░   95%
-UI/UX         ████████████████░░░░   80%
-```
-
----
-
-# 🧊 07 — UI / UX
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=450&color=FF4ECD&center=true&vCenter=true&width=800&lines=UI%2FUX+DESIGN;Visual+Hierarchy;User+Experience;Modern+Layouts;Micro+Interactions;Pixel+Precision" />
-
-</div>
-
-```text
-╭────────────────────────────────────────╮
-│                                        │
-│              ✦ UI DESIGN ✦             │
-│                                        │
-│       SIMPLE • MODERN • USEFUL         │
-│                                        │
-│             [ EXPLORE ]                │
-│                                        │
-╰────────────────────────────────────────╯
-```
-
----
-
-# 🌊 08 — RESPONSIVE WEB
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1200&pause=300&color=00FFB3&center=true&vCenter=true&width=850&lines=MOBILE;TABLET;DESKTOP;ULTRAWIDE;ONE+DESIGN;EVERY+SCREEN" />
-
-<br>
-
-```text
-        ┌───────────┐
-        │  MOBILE   │
-        │           │
-        │    UI     │
-        └───────────┘
-
-              ↓
-
-    ┌───────────────────┐
-    │      TABLET       │
-    │        UI         │
-    └───────────────────┘
-
-              ↓
-
-┌────────────────────────────────┐
-│            DESKTOP             │
-│               UI               │
-└────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 💻 09 — CYBER TERMINAL
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=800&pause=150&color=00FF41&center=true&vCenter=true&width=900&lines=%24+frontend+--init;%3E+Loading+HTML...;%3E+Loading+CSS...;%3E+Loading+JavaScript...;%3E+Loading+React...;%3E+UI+ONLINE;%24+ready" />
-
-</div>
+Frontend development workflow:
 
 ```bash
-$ frontend --init
+npm run dev
 
-> HTML loaded
-> CSS loaded
-> JavaScript loaded
-> React loaded
+npm install
 
-> UI system online
-> Responsive system online
-> Animation system online
+git add .
 
-$ status
+git commit
 
-ONLINE ████████████████████
+git push
+```
+
+Har bir loyiha:
+
+```text
+Code
+ ↓
+Test
+ ↓
+Debug
+ ↓
+Improve
+ ↓
+Ship 🚀
 ```
 
 ---
 
-# 🌀 10 — COMPONENT ORBIT
+## 🔥 MY FRONTEND SKILLS
 
-<div align="center">
+<img src="./assets/10_skills.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=1000&pause=250&color=7C3AED&center=true&vCenter=true&width=850&lines=COMPONENT+ORBIT;%5B+HEADER+%5D;%5B+NAVBAR+%5D;%5B+CARD+%5D;%5B+BUTTON+%5D;%5B+MODAL+%5D;%5B+FOOTER+%5D" />
+| Skill      | Fokus               |
+| ---------- | ------------------- |
+| HTML       | Semantic structure  |
+| CSS        | Layout & animation  |
+| JavaScript | Logic & interaction |
+| React      | Components & UI     |
+| Responsive | Mobile → Desktop    |
+| UI/UX      | User experience     |
 
-</div>
+---
+
+## 🚀 PROJECTS
+
+<img src="./assets/11_projects.gif" width="100%">
+
+Frontend orqali quyidagi loyihalarni yaratishni yoqtiraman:
 
 ```text
-                    ◉ BUTTON
+🚀 Landing Pages
+🎨 Portfolio Websites
+📊 Dashboards
+⚛️ React Applications
+📱 Responsive Websites
+✨ Interactive UI
+```
 
-          ◉ CARD                 ◉ MODAL
+Har bir loyihada asosiy maqsad:
 
+**Clean Code + Modern UI + Good UX**
 
-                ◉ REACT UI
+---
 
+## 🧠 CURRENTLY LEARNING
 
-          ◉ NAVBAR               ◉ HEADER
+<img src="./assets/12_learning.gif" width="100%">
 
-                    ◉ FOOTER
+Hozir frontend bo'yicha bilimlarni yanada chuqurlashtirishga e'tibor beraman.
+
+```text
+Advanced React
+       ↓
+JavaScript Patterns
+       ↓
+UI Animation
+       ↓
+Component Architecture
+       ↓
+Clean Code
 ```
 
 ---
 
-# 🔥 11 — FRONTEND WORKFLOW
+## 🌐 WEB FUNDAMENTALS
 
-<div align="center">
+<img src="./assets/13_web.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1000&pause=250&color=FF5C5C&center=true&vCenter=true&width=900&lines=IDEA;DESIGN;STRUCTURE;STYLE;LOGIC;COMPONENTS;RESPONSIVE;TEST;SHIP" />
+Frontend faqat HTML va CSS emas.
 
-</div>
+Men quyidagilarni ham tushunishga e'tibor beraman:
 
 ```text
-IDEA
- ↓
-DESIGN
- ↓
+Browser
+   ↓
+DOM
+   ↓
+HTTP
+   ↓
+API
+   ↓
+JavaScript
+   ↓
+React
+   ↓
+UI
+```
+
+---
+
+## ⚙️ FRONTEND WORKFLOW
+
+<img src="./assets/14_workflow.gif" width="100%">
+
+Mening frontend workflow'im:
+
+```text
+💡 IDEA
+   ↓
+🎨 DESIGN
+   ↓
+🧱 HTML
+   ↓
+🎨 CSS
+   ↓
+⚡ JAVASCRIPT
+   ↓
+⚛️ REACT
+   ↓
+📱 RESPONSIVE
+   ↓
+✨ POLISH
+   ↓
+🚀 DEPLOY
+```
+
+---
+
+## 🎨 DESIGN SYSTEM
+
+<img src="./assets/15_design_system.gif" width="100%">
+
+Yaxshi frontend uchun barcha elementlar bir-biri bilan mos bo'lishi kerak.
+
+```text
+Colors
+   +
+Typography
+   +
+Spacing
+   +
+Components
+   +
+Animations
+   =
+Consistent UI
+```
+
+---
+
+## ⚛️ REACT ARCHITECTURE
+
+<img src="./assets/16_architecture.gif" width="100%">
+
+React loyihalarda UI'ni kichik va boshqarilishi oson qismlarga ajratish:
+
+```text
+APP
+ │
+ ├── Header
+ │
+ ├── Navbar
+ │
+ ├── Pages
+ │    ├── Home
+ │    ├── About
+ │    └── Projects
+ │
+ ├── Components
+ │    ├── Button
+ │    ├── Card
+ │    └── Modal
+ │
+ └── Footer
+```
+
+---
+
+## 🛣️ FRONTEND ROADMAP
+
+<img src="./assets/17_roadmap.gif" width="100%">
+
+```text
 HTML
  ↓
 CSS
  ↓
-JAVASCRIPT
+Responsive Design
  ↓
-REACT
+JavaScript
  ↓
-RESPONSIVE
+DOM & API
  ↓
-POLISH ✨
+React
  ↓
-SHIP 🚀
+Hooks
+ ↓
+Component Architecture
+ ↓
+Advanced Frontend
 ```
 
----
-
-# 🎮 12 — CODING MODE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=700&pause=180&color=00F5FF&center=true&vCenter=true&width=850&lines=LEVEL+01+%7C+HTML;LEVEL+02+%7C+CSS;LEVEL+03+%7C+JAVASCRIPT;LEVEL+04+%7C+REACT;LEVEL+05+%7C+UI+MASTER" />
-
-</div>
-
-```text
-╔════════════════════════════════════╗
-║       FRONTEND LEVEL SYSTEM        ║
-╠════════════════════════════════════╣
-║                                    ║
-║  HTML        ██████████  LVL 10   ║
-║  CSS         █████████░  LVL 09   ║
-║  JavaScript  █████████░  LVL 09   ║
-║  React       ████████░░  LVL 08   ║
-║                                    ║
-╚════════════════════════════════════╝
-```
+Maqsad — **kuchli va zamonaviy Frontend Developer bo'lish.**
 
 ---
 
-# ✨ 13 — MICRO INTERACTIONS
+# 🌌 FRONTEND DEVELOPER
+
+<img src="./assets/18_frontend.gif" width="100%">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=900&pause=180&color=FACC15&center=true&vCenter=true&width=850&lines=HOVER;CLICK;FOCUS;SCROLL;TRANSITION;TRANSFORM;FEEDBACK" />
+### ⚡ HTML • CSS • JavaScript • React ⚡
 
-<br><br>
+**Frontend Developer**
 
-`HOVER` → `GLOW` → `SCALE` → `MOVE` → `FEEDBACK`
-
-</div>
-
----
-
-# 🚀 14 — PROJECT ENERGY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=850&pause=200&color=FF00C8&center=true&vCenter=true&width=900&lines=PROJECT+01+%E2%86%92+LANDING+PAGE;PROJECT+02+%E2%86%92+PORTFOLIO;PROJECT+03+%E2%86%92+REACT+APP;PROJECT+04+%E2%86%92+DASHBOARD;PROJECT+05+%E2%86%92+CREATIVE+UI" />
-
-</div>
-
----
-
-# 🧠 15 — FRONTEND MINDSET
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1200&pause=350&color=FFFFFF&center=true&vCenter=true&width=850&lines=KEEP+IT+SIMPLE;MAKE+IT+FAST;MAKE+IT+RESPONSIVE;MAKE+IT+BEAUTIFUL;MAKE+IT+USEFUL;KEEP+LEARNING" />
-
-</div>
-
-```text
-DESIGN  +  CODE  +  UX
-          =
-     GREAT FRONTEND
-```
-
----
-
-# 🌌 16 — FUTURE FRONTEND
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1000&pause=250&color=00F5FF&center=true&vCenter=true&width=900&lines=NEXT+GEN+FRONTEND;ADVANCED+REACT;TYPESCRIPT;NEXT.JS;MOTION+DESIGN;3D+WEB;CREATIVE+INTERFACES" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-
-</div>
-
----
-
-# 🏆 17 — DEVELOPER STATUS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=800&pause=180&color=7CFF00&center=true&vCenter=true&width=850&lines=STATUS%3A+ONLINE;MODE%3A+CREATIVE;ROLE%3A+FRONTEND+DEVELOPER;FOCUS%3A+WEB+INTERFACES;MISSION%3A+BUILD+BETTER+UI" />
-
-<br><br>
-
-```text
-╭────────────────────────────────────╮
-│                                    │
-│       ● FRONTEND SYSTEM ONLINE     │
-│                                    │
-│       HTML        ✓                │
-│       CSS         ✓                │
-│       JavaScript  ✓                │
-│       React       ✓                │
-│                                    │
-│       STATUS: READY 🚀             │
-│                                    │
-╰────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# 🌠 18 — FINAL ANIMATION
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5FF,50:7C3AED,100:FF00C8&section=footer&text=KEEP%20BUILDING&fontColor=ffffff&fontSize=38&animation=twinkling&fontAlignY=65"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=1300&pause=350&color=00F5FF&center=true&vCenter=true&width=800&lines=HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT;FRONTEND+DEVELOPER;SEE+YOU+IN+THE+CODE+%F0%9F%9A%80" />
+**Creative Interfaces • Responsive Web • Interactive Experiences**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f5ff&label=PROFILE+VISITS" />
+```text
+BUILD
+  ↓
+CREATE
+  ↓
+LEARN
+  ↓
+IMPROVE
+  ↓
+REPEAT 🚀
+```
 
-</div>
-
----
-
-<div align="center">
-
-**⚡ HTML • CSS • JavaScript • React ⚡**
-
-**Frontend Developer | Creative UI | Responsive Web**
+### `See you in the code.`
 
 </div>
