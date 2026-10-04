@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-label="HTML, CSS, JavaScript va React">
-  <rect x="1" y="1" width="898" height="110" rx="20" fill="#0f172a" stroke="#334155"/>
-  <g font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle">
-    <rect x="20" y="25" width="195" height="62" rx="14" fill="#25130d" stroke="#e96b32"/><text x="117" y="64" fill="#ff9b65">HTML</text>
-    <rect x="239" y="25" width="195" height="62" rx="14" fill="#111d38" stroke="#4f8cff"/><text x="336" y="64" fill="#83b2ff">CSS</text>
-    <rect x="458" y="25" width="195" height="62" rx="14" fill="#28230d" stroke="#e8c947"/><text x="555" y="64" fill="#f6df70">JavaScript</text>
-    <rect x="677" y="25" width="203" height="62" rx="14" fill="#10242b" stroke="#48c7d5"/><text x="778" y="64" fill="#78e1ed">React</text>
-  </g>
-</svg>
