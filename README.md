@@ -1,163 +1,41 @@
-<div align="center">
-
-# ⚡ O'KTAMJON
-
-<img src="./assets/18.svg" width="100%">
-
-## FRONTEND DEVELOPER
-
-**HTML • CSS • JavaScript • React**
-
-`Creative UI` • `Responsive Design` • `Web Animation` • `UI/UX`
-
-</div>
-
----
-
-## 🧱 HTML — WEB STRUCTURE
-
-<img src="./assets/01.svg" width="100%">
-
-Semantic HTML, accessibility va toza web strukturaga e'tibor beraman.
-
----
-
-## 🎨 CSS — VISUAL DESIGN
-
-<img src="./assets/02.svg" width="100%">
-
-Flexbox, Grid, responsive layout, transitions va keyframes bilan zamonaviy UI yarataman.
-
----
-
-## ⚡ JAVASCRIPT — INTERACTION
-
-<img src="./assets/03.svg" width="100%">
-
-ES6+, DOM, Events, Async/Await, Promises va API integration.
-
----
-
-## ⚛️ REACT — COMPONENT UI
-
-<img src="./assets/04.svg" width="100%">
-
-Components, Props, State, Hooks va reusable UI architecture.
-
----
-
-## 📱 RESPONSIVE DESIGN
-
-<img src="./assets/05.svg" width="100%">
-
-Mobile-first yondashuvdan foydalanib Mobile → Tablet → Desktop interfeyslar yarataman.
-
----
-
-## 🎯 UI / UX
-
-<img src="./assets/06.svg" width="100%">
-
-Visual hierarchy, typography, spacing va user experience.
-
----
-
-## ✨ CSS ANIMATIONS
-
-<img src="./assets/07.svg" width="100%">
-
-Transform, transition, keyframes, hover animation va micro-interactions.
-
----
-
-## 🧩 REUSABLE COMPONENTS
-
-<img src="./assets/08.svg" width="100%">
-
-Navbar, Button, Card, Modal va boshqa qayta ishlatiladigan UI komponentlari.
-
----
-
-## 💻 FRONTEND TERMINAL
-
-<img src="./assets/09.svg" width="100%">
-
-Frontend development workflow: `npm run dev` → `git add` → `commit` → `push`.
-
----
-
-## 🔥 FRONTEND SKILLS
-
-<img src="./assets/10.svg" width="100%">
-
-HTML, CSS, JavaScript, React va Responsive Frontend.
-
----
-
-## 🚀 PROJECTS
-
-<img src="./assets/11.svg" width="100%">
-
-Landing pages, portfolio websites, dashboards, React applications va interactive UI.
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-<img src="./assets/12.svg" width="100%">
-
-Advanced React, JavaScript patterns, UI animation va clean code.
-
----
-
-## 🌐 WEB FUNDAMENTALS
-
-<img src="./assets/13.svg" width="100%">
-
-Browser → DOM → HTTP → API → JavaScript → React → UI.
-
----
-
-## ⚙️ FRONTEND WORKFLOW
-
-<img src="./assets/14.svg" width="100%">
-
-IDEA → DESIGN → BUILD → TEST → POLISH → DEPLOY.
-
----
-
-## 🎨 DESIGN SYSTEM
-
-<img src="./assets/15.svg" width="100%">
-
-Colors + Typography + Spacing + Components = Consistent UI.
-
----
-
-## ⚛️ REACT ARCHITECTURE
-
-<img src="./assets/16.svg" width="100%">
-
-App → Pages → Components → Hooks.
-
----
-
-## 🛣️ FRONTEND ROADMAP
-
-<img src="./assets/17.svg" width="100%">
-
-HTML → CSS → Responsive Design → JavaScript → DOM/API → React → Hooks → Advanced Frontend.
-
----
-
-<div align="center">
-
-<img src="./assets/18.svg" width="100%">
-
-### ⚡ HTML • CSS • JavaScript • React ⚡
-
-**Frontend Developer**
-
-`BUILD` → `CREATE` → `LEARN` → `IMPROVE` → `REPEAT` 🚀
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Salom,%20men%20ISMINGIZ!&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Frontend+Developer+%F0%9F%92%BB;React+bilan+loyihalar+yarataman+%E2%9A%9B%EF%B8%8F;Har+kuni+yangi+narsa+o'rganaman+%F0%9F%93%9A;Hamkorlikka+ochiqman+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
+  &nbsp;
+  <img src="assets/status.svg" height="44" alt="status" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 👋 Men haqimda
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/terminal.svg" width="520" alt="terminal" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding" />
+    </td>
+  </tr>
+</table>
+
+- 🔭 Hozir **React** va zamonaviy frontend ustida ishlayapman
+- 🌱 O'rganayotganim: **TypeScript**, **Next.js**
+- 📫 Bog'lanish: **email@example.com**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🛠 Texnologiyalar
+
+<p align="center">
+  <img
