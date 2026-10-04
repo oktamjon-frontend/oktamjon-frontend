@@ -1,356 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF00E5&height=200&section=header&text=SALOM%2C%20GITHUB!&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+# 👋 SALOM, GITHUB!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=Men+Frontend+Dasturchiman+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+%7C+React;G'oyalarni+zamonaviy+web+loyihalarga+aylantiraman;Doim+o'rganaman%2C+rivojlanaman+va+kod+yozaman+%F0%9F%92%BB"/>
+### 🚀 FRONTEND DEVELOPER
 
-<br>
+**🌐 HTML   •   🎨 CSS   •   ⚡ JavaScript   •   ⚛️ React**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,npm&theme=dark" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFIL%20KO%27RILISHLARI&color=00F7FF&style=for-the-badge"/>
+> 💻 G‘oyalarni zamonaviy web loyihalarga aylantiraman.
 
 </div>
 
 ---
 
-# 👨‍💻 1. Men haqimda
+<details open>
+<summary><h2>👨‍💻 01 — Men haqimda</h2></summary>
 
-> 🚀 Men **Frontend dasturlash**ga qiziqaman va zamonaviy, chiroyli hamda interaktiv web interfeyslar yaratishni o‘rganaman.
+Men **Frontend dasturlash** bilan shug‘ullanishga qiziqaman.
 
-* 🌐 Web saytlar yaratish
-* 🎨 Zamonaviy UI dizayn
-* ⚡ JavaScript orqali interaktivlik
-* ⚛️ React orqali komponentlar
+Maqsadim — chiroyli ko‘rinadigan, tez ishlaydigan va foydalanuvchiga qulay web interfeyslar yaratish.
+
+### 🔥 Men yoqtiradigan narsalar
+
+* 🌐 Zamonaviy web saytlar
+* 🎨 Kreativ UI dizaynlar
+* ⚡ JavaScript interaktivligi
+* ⚛️ React komponentlari
 * 📱 Responsive dizayn
-* 🧠 Doim yangi texnologiyalarni o‘rganish
-* 🧹 Toza va tushunarli kod yozish
-* 🚀 Real loyihalar yaratish
+* 🧩 Toza va tartibli kod
+* 🚀 Yangi loyihalar
+* 🧠 Yangi texnologiyalarni o‘rganish
+
+### 💭 Dasturlash falsafam
 
 ```text
-G‘oya
+G‘OYA
   ↓
+REJA
+  ↓
+KOD
+  ↓
+XATO
+  ↓
+TAHLIL
+  ↓
+TAJRIBA
+  ↓
+🚀 NATIJA
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>💎 02 — Asosiy texnologiyalarim</h2></summary>
+
+<div align="center">
+
+|  🌐 HTML  |  🎨 CSS | ⚡ JavaScript |  ⚛️ React |
+| :-------: | :-----: | :----------: | :-------: |
+| Strukturа |  Dizayn |    Mantiq    | Komponent |
+|     🧱    |    🎨   |       ⚡      |     ⚛️    |
+|  **92%**  | **88%** |    **85%**   |  **82%**  |
+
+</div>
+
+### 🌐 HTML
+
+Web sahifaning asosiy tuzilishini yaratish uchun ishlataman.
+
+```text
 HTML
-  ↓
+ ├── 🧱 Structure
+ ├── 📝 Forms
+ ├── 🔗 Navigation
+ ├── 🖼️ Media
+ └── 📄 Semantic HTML
+```
+
+---
+
+### 🎨 CSS
+
+Web sahifaga dizayn va zamonaviy ko‘rinish berish uchun.
+
+```text
 CSS
-  ↓
+ ├── 🎨 Colors
+ ├── 📐 Flexbox
+ ├── 🧩 Grid
+ ├── 📱 Responsive
+ ├── ✨ Hover
+ └── 💫 Animation
+```
+
+---
+
+### ⚡ JavaScript
+
+Web sahifaga mantiq va interaktivlik qo‘shish uchun.
+
+```text
 JavaScript
-  ↓
+ ├── ⚡ DOM
+ ├── 🖱️ Events
+ ├── 🔄 Functions
+ ├── 📦 Arrays
+ ├── 🧠 Objects
+ └── 🌐 API
+```
+
+---
+
+### ⚛️ React
+
+Zamonaviy va qayta foydalaniladigan komponentlar yaratish uchun.
+
+```text
 React
-  ↓
-🚀 Zamonaviy Web loyiha
+ ├── 🧩 Components
+ ├── 🔄 State
+ ├── 📦 Props
+ ├── ♻️ Reusable UI
+ ├── 🎯 Events
+ └── 🚀 Web Applications
 ```
 
----
-
-# 💎 2. Asosiy texnologiyalarim
-
-<div align="center">
-
-|  🌐 HTML  | 🎨 CSS |  ⚡ JavaScript |   ⚛️ React   |
-| :-------: | :----: | :-----------: | :----------: |
-| Strukturа | Dizayn | Interaktivlik | Komponentlar |
-|     🧱    |   🎨   |       ⚡       |      ⚛️      |
-|    92%    |   88%  |      85%      |      82%     |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="80"/>
-<img src="https://skillicons.dev/icons?i=css" width="80"/>
-<img src="https://skillicons.dev/icons?i=js" width="80"/>
-<img src="https://skillicons.dev/icons?i=react" width="80"/>
-
-</div>
+</details>
 
 ---
 
-# 🎯 3. Maqsadlarim
-
-* ✅ Kuchli Frontend dasturchi bo‘lish
-* ✅ React ekotizimini chuqur o‘rganish
-* ✅ Professional UI/UX yaratish
-* ✅ JavaScript bilimlarini kuchaytirish
-* ✅ Real loyihalarda tajriba orttirish
-* ✅ GitHub profilimni loyihalar bilan boyitish
-* ✅ Katta web-ilovalar yaratish
-* ✅ Doim yangi texnologiyalarni o‘rganish
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=Katta+maqsadlar+kichik+qadamlardan+boshlanadi.;Bugungi+kod+%E2%80%94+ertangi+tajriba.;O'rganish+%2B+Amaliyot+%2B+Sabr+%3D+Natija+%F0%9F%9A%80"/>
-
-</div>
-
----
-
-# 🌐 4. HTML
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="100"/>
-
-### Web sahifaning poydevori 🧱
-
-</div>
-
-**HTML bilan:**
-
-* 🧱 Semantik struktura
-* 🔗 Navigatsiya
-* 📝 Form elementlari
-* 🖼️ Rasm va media
-* 📱 Responsive struktura
-* 📄 Sahifa layout'i
-
-```html
-<!DOCTYPE html>
-
-<html lang="uz">
-<head>
-    <meta charset="UTF-8">
-    <title>Salom, dunyo!</title>
-</head>
-
-<body>
-
-    <h1>Salom, GitHub! 🚀</h1>
-
-</body>
-</html>
-```
-
----
-
-# 🎨 5. CSS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=css" width="100"/>
-
-### Dizayn va kreativlik 🎨
-
-</div>
-
-**CSS bilan:**
-
-* 🌈 Gradient
-* 📐 Flexbox
-* 🧩 Grid
-* 📱 Responsive
-* ✨ Hover effektlar
-* 💫 Animation
-* 🌑 Dark UI
-* 💎 Neon dizayn
-
-```css
-body {
-    background: #050816;
-    color: white;
-}
-
-.card {
-    border: 1px solid #00f7ff;
-    border-radius: 20px;
-    transition: 0.3s;
-}
-
-.card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 0 30px #00f7ff;
-}
-```
-
----
-
-# ⚡ 6. JavaScript
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js" width="100"/>
-
-### Web sahifaga jon berish ⚡
-
-</div>
-
-**JavaScript bilan:**
-
-* ⚡ DOM
-* 🖱️ Eventlar
-* 🔄 Dinamik kontent
-* 🧠 Funksiyalar
-* 📦 Array/Object
-* 🎯 Interaktiv UI
-* 🌐 API bilan ishlash
-
-```javascript
-const developer = {
-    name: "YOUR_NAME",
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React"
-    ]
-};
-
-console.log("🚀 Frontend Developer!");
-```
-
----
-
-# ⚛️ 7. React
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="100"/>
-
-### Zamonaviy Frontend ⚛️
-
-</div>
-
-**React bilan:**
-
-* 🧩 Componentlar
-* 🔄 State
-* 📦 Props
-* ♻️ Reusable UI
-* ⚡ Dynamic rendering
-* 🏗️ Zamonaviy arxitektura
-* 🚀 Interaktiv web-ilovalar
-
-```jsx
-function Developer() {
-    return (
-        <div>
-            <h1>Salom, GitHub! 🚀</h1>
-
-            <p>
-                HTML + CSS + JavaScript + React
-            </p>
-        </div>
-    );
-}
-
-export default Developer;
-```
-
----
-
-# 🚀 8. Mening loyihalarim
-
-<div align="center">
-
-| 🚀 Loyiha        | 📝 Tavsif                |
-| ---------------- | ------------------------ |
-| 💼 Portfolio     | Shaxsiy portfolio sayti  |
-| 📝 To-Do App     | Vazifalarni boshqarish   |
-| 🛒 E-Commerce UI | Online do‘kon interfeysi |
-| 📊 Dashboard     | Ma’lumotlar boshqaruvi   |
-| 🎮 Mini Web App  | Interaktiv loyihalar     |
-
-</div>
-
-### 📌 Portfolio
-
-> Shaxsiy ma'lumotlar, ko‘nikmalar va loyihalarni ko‘rsatadigan zamonaviy portfolio.
-
-### 📌 To-Do App
-
-> JavaScript/React yordamida vazifalarni qo‘shish, o‘chirish va boshqarish.
-
-### 📌 E-Commerce
-
-> Mahsulotlar, kartalar va zamonaviy online-do‘kon interfeysi.
-
----
-
-# 🧠 9. Ko‘nikmalarim
-
-<div align="center">
+<details open>
+<summary><h2>📊 03 — Ko‘nikmalar paneli</h2></summary>
 
 ```text
-HTML        ████████████████████  92%
-CSS         ██████████████████░░  88%
-JavaScript  █████████████████░░░  85%
-React       ████████████████░░░░  82%
+╭──────────────────────────────────────────────╮
+│              MY FRONTEND SKILLS              │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🌐 HTML        ████████████████████  92%   │
+│  🎨 CSS         ██████████████████░░  88%   │
+│  ⚡ JavaScript  █████████████████░░░  85%   │
+│  ⚛️ React       ████████████████░░░░  82%   │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-</div>
+> Bu foizlar rasmiy test natijasi emas, profil uchun vizual ko‘rsatkich sifatida berilgan.
+
+</details>
 
 ---
 
-# 🔥 10. Hozir rivojlanayotgan yo‘nalishlarim
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1800&pause=500&color=7B2FFF&center=true&vCenter=true&width=800&lines=Responsive+Design;Clean+Code;JavaScript+Logic;React+Components;Modern+UI%2FUX;Web+Animation"/>
-
-</div>
-
----
-
-# 📊 11. GitHub statistikasi
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 💻 12. Eng ko‘p ishlatiladigan tillar
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 13. GitHub faoliyatim
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 14. Yutuqlar
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="95%"/>
-
-</div>
-
----
-
-# 🐍 15. Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
-
-# 🖥️ 16. Developer Terminal
+<details open>
+<summary><h2>💻 04 — Developer Terminal</h2></summary>
 
 ```text
-┌──────────────────────────────────────────────┐
+╭──────────────────────────────────────────────╮
 │              DEVELOPER TERMINAL              │
 ├──────────────────────────────────────────────┤
 │                                              │
@@ -359,81 +165,571 @@ React       ████████████████░░░░  82%
 │                                              │
 │  $ skills                                    │
 │                                              │
-│  HTML        ████████████████████            │
-│  CSS         ████████████████████            │
-│  JavaScript  ████████████████████            │
-│  React       ████████████████████            │
+│  🌐 HTML        ████████████████████  92%   │
+│  🎨 CSS         ██████████████████░░  88%   │
+│  ⚡ JavaScript  █████████████████░░░  85%   │
+│  ⚛️ React       ████████████████░░░░  82%   │
 │                                              │
 │  $ status                                    │
 │                                              │
-│  ● Online                                    │
-│  ● Coding                                    │
-│  ● Learning                                  │
-│  ● Building                                  │
+│  🟢 Online                                   │
+│  🟢 Coding                                   │
+│  🟢 Learning                                 │
+│  🟢 Building                                 │
 │                                              │
-└──────────────────────────────────────────────┘
+│  $ npm run start                             │
+│                                              │
+│  > HTML yuklandi        ✓                    │
+│  > CSS yuklandi         ✓                    │
+│  > JavaScript yuklandi  ✓                    │
+│  > React yuklandi       ✓                    │
+│                                              │
+│  🚀 LOYIHA ONLINE!                           │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>⚡ 05 — Developer Mode</h2></summary>
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    🚀 DEVELOPER MODE                    │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  $ system.status                                        │
+│                                                         │
+│  [✓] HTML             ████████████████████              │
+│  [✓] CSS              ██████████████████░░              │
+│  [✓] JavaScript       █████████████████░░░              │
+│  [✓] React            ████████████████░░░░              │
+│                                                         │
+│  ─────────────────────────────────────────────────────  │
+│                                                         │
+│  STATUS                                                 │
+│                                                         │
+│  🟢 ONLINE                                               │
+│  🟢 CODING                                               │
+│  🟢 LEARNING                                             │
+│  🟢 BUILDING                                             │
+│  🟢 CREATING                                             │
+│                                                         │
+│  ─────────────────────────────────────────────────────  │
+│                                                         │
+│  $ echo "Katta loyihalar kichik kodlardan boshlanadi"   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🧩 06 — Frontend arxitekturam</h2></summary>
+
+```text
+                    🚀 WEB LOYIHA
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │   🌐 HTML   │
+                  │  STRUCTURE  │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │   🎨 CSS    │
+                  │   DESIGN    │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │    ⚡ JS     │
+                  │    LOGIC    │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │   ⚛️ REACT  │
+                  │ COMPONENTS  │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │    🚀 UI    │
+                  │   RESULT    │
+                  └─────────────┘
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🎨 07 — CSS laboratoriyasi</h2></summary>
+
+```text
+╭──────────────────────────────────────────╮
+│              CSS LABORATORY              │
+├──────────────────────────────────────────┤
+│                                          │
+│  🎨 Gradient                             │
+│  📐 Flexbox                              │
+│  🧩 CSS Grid                             │
+│  📱 Responsive                           │
+│  ✨ Hover Effects                        │
+│  💫 Transition                           │
+│  🌑 Dark UI                              │
+│  💎 Neon Design                          │
+│                                          │
+╰──────────────────────────────────────────╯
+```
+
+### Men yoqtiradigan CSS uslublari
+
+```css
+.card {
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>⚡ 08 — JavaScript laboratoriyasi</h2></summary>
+
+```javascript
+const developer = {
+    role: "Frontend Developer",
+
+    skills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+    ],
+
+    status: "Learning & Building"
+};
+
+console.log("🚀 Developer Online!");
+```
+
+### JavaScript yo‘nalishlarim
+
+```text
+DOM              → 🖥️
+Events           → 🖱️
+Functions        → ⚙️
+Arrays           → 📦
+Objects          → 🧩
+API              → 🌐
+Async            → 🔄
+Logic            → 🧠
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>⚛️ 09 — React laboratoriyasi</h2></summary>
+
+```jsx
+function Developer() {
+
+    return (
+        <div>
+
+            <h1>
+                Salom, GitHub! 🚀
+            </h1>
+
+            <p>
+                HTML + CSS +
+                JavaScript + React
+            </p>
+
+        </div>
+    );
+}
+
+export default Developer;
+```
+
+### React bilan
+
+* 🧩 Component
+* 🔄 State
+* 📦 Props
+* 🎯 Event
+* ♻️ Reusable UI
+* 🏗️ Component Architecture
+* 🚀 Web Application
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🚀 10 — Mening loyihalarim</h2></summary>
+
+### 💼 Portfolio
+
+**Maqsad:** shaxsiy ma’lumotlar, ko‘nikmalar va loyihalarni ko‘rsatish.
+
+```text
+Portfolio
+├── 🏠 Bosh sahifa
+├── 👨‍💻 Men haqimda
+├── 💎 Ko‘nikmalar
+├── 🚀 Loyihalar
+└── 📞 Aloqa
 ```
 
 ---
 
-# 🔮 17. Kelajakdagi Stack
+### 📝 To-Do App
+
+**Maqsad:** vazifalarni qo‘shish, bajarish va boshqarish.
+
+```text
+TODO
+├── ➕ Vazifa qo‘shish
+├── ✅ Vazifani bajarish
+├── ✏️ Tahrirlash
+└── 🗑️ O‘chirish
+```
+
+---
+
+### 🛒 E-Commerce UI
+
+**Maqsad:** online do‘kon interfeysini yaratish.
+
+```text
+SHOP
+├── 🛍️ Mahsulotlar
+├── 🔎 Qidiruv
+├── 🛒 Savatcha
+├── ❤️ Sevimlilar
+└── 💳 Buyurtma
+```
+
+---
+
+### 📊 Dashboard
+
+**Maqsad:** ma’lumotlarni qulay va tushunarli ko‘rsatish.
+
+```text
+DASHBOARD
+├── 📊 Statistikalar
+├── 👥 Foydalanuvchilar
+├── 📈 Grafiklar
+└── ⚙️ Sozlamalar
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🧠 11 — Hozir rivojlanayotgan yo‘nalishlarim</h2></summary>
+
+```text
+╭─────────────────────────────────────────────╮
+│          CURRENTLY LEARNING                 │
+├─────────────────────────────────────────────┤
+│                                             │
+│  📱 Responsive Design      → ACTIVE         │
+│  🧹 Clean Code             → ACTIVE         │
+│  ⚡ JavaScript Logic       → ACTIVE         │
+│  ⚛️ React Components       → ACTIVE         │
+│  🎨 Modern UI/UX           → ACTIVE         │
+│  💫 Web Animation           → ACTIVE         │
+│  🌐 API                    → LEARNING       │
+│                                             │
+╰─────────────────────────────────────────────╯
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🎯 12 — Maqsadlarim</h2></summary>
+
+```text
+2026
+ │
+ ├── ✅ HTML
+ ├── ✅ CSS
+ ├── 🔥 JavaScript
+ ├── 🔥 React
+ │
+ ▼
+🚀 Kuchli Frontend
+ │
+ ▼
+💻 Real loyihalar
+ │
+ ▼
+🌐 Professional Web
+ │
+ ▼
+🏆 Katta maqsadlar
+```
+
+### Kelajakdagi maqsadlarim
+
+* 🚀 Kuchli Frontend dasturchi bo‘lish
+* ⚛️ React'ni chuqur o‘rganish
+* 🧠 JavaScript'ni kuchaytirish
+* 🎨 Professional UI/UX yaratish
+* 🌐 Real loyihalar yaratish
+* 💻 Katta web-ilovalar ishlab chiqish
+* 📚 Doim yangi texnologiyalar o‘rganish
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🛠️ 13 — Ish qurollarim</h2></summary>
+
+```text
+💻 CODE
+│
+├── VS Code
+├── Git
+├── GitHub
+└── npm
+
+🌐 FRONTEND
+│
+├── HTML
+├── CSS
+├── JavaScript
+└── React
+
+🧠 DEVELOPMENT
+│
+├── Clean Code
+├── Responsive Design
+├── Component Architecture
+└── UI/UX
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>📚 14 — O‘rganish jarayonim</h2></summary>
+
+```text
+        📚 O'RGANISH
+             │
+             ▼
+        🧪 AMALIYOT
+             │
+             ▼
+         ❌ XATOLAR
+             │
+             ▼
+        🧠 TAHLIL
+             │
+             ▼
+        💡 TAJRIBA
+             │
+             ▼
+         🚀 O'SISH
+```
+
+> Har bir xato — yangi tajriba.
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🔥 15 — Developer qoidalarim</h2></summary>
+
+```text
+01. 🧠 Avval tushun
+02. ✍️ Keyin kod yoz
+03. 🧪 Sinab ko‘r
+04. 🐛 Xatoni top
+05. 🔧 Tuzat
+06. ♻️ Kodni yaxshila
+07. 🚀 Loyihani tugat
+08. 📚 Yana yangi narsa o‘rgan
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>💭 16 — Motivatsiya</h2></summary>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,npm,nodejs" />
+```text
+╭──────────────────────────────────────────╮
+│                                          │
+│   "Har bir katta loyiha                  │
+│    birinchi qatordan boshlanadi." 🚀     │
+│                                          │
+╰──────────────────────────────────────────╯
+```
 
-<br><br>
+### Kichik qadamlar → Katta natijalar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=FF00E5&center=true&vCenter=true&width=700&lines=Bugun+Frontend;Ertaga+Full+Stack;Kelajakda+katta+loyihalar+%F0%9F%9A%80"/>
+**O‘rganish • Amaliyot • Sabr • Rivojlanish**
+
+</div>
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🌟 17 — Developer Mode</h2></summary>
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                  DEVELOPER MODE                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  USER             : FRONTEND DEVELOPER               │
+│  SYSTEM           : ONLINE                           │
+│  EDITOR           : VS CODE                          │
+│  OS               : WINDOWS                          │
+│                                                      │
+│  ──────────────────────────────────────────────────  │
+│                                                      │
+│  HTML             : READY        ✓                   │
+│  CSS              : READY        ✓                   │
+│  JavaScript       : LEARNING     ✓                   │
+│  React            : LEARNING     ✓                   │
+│                                                      │
+│  ──────────────────────────────────────────────────  │
+│                                                      │
+│  CODING           : 🟢 ACTIVE                        │
+│  LEARNING         : 🟢 ACTIVE                        │
+│  BUILDING         : 🟢 ACTIVE                        │
+│  CREATING         : 🟢 ACTIVE                        │
+│                                                      │
+│  ──────────────────────────────────────────────────  │
+│                                                      │
+│  > Katta loyihalar kichik kodlardan boshlanadi. 🚀   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🔮 18 — Kelajakdagi Stack</h2></summary>
+
+```text
+CURRENT
+│
+├── 🌐 HTML
+├── 🎨 CSS
+├── ⚡ JavaScript
+└── ⚛️ React
+
+FUTURE
+│
+├── 🟢 Node.js
+├── 🗄️ Database
+├── 🔌 API
+├── 🔐 Authentication
+└── 🚀 Full Stack
+```
+
+### Maqsad
+
+```text
+Frontend
+   +
+Backend
+   +
+Database
+   +
+API
+   =
+🚀 FULL STACK PROJECT
+```
+
+</details>
+
+---
+
+# 🤝 19 — Aloqa
+
+<div align="center">
+
+|   Platforma  |           Havola          |
+| :----------: | :-----------------------: |
+|   🐙 GitHub  |   `YOUR_GITHUB_USERNAME`  |
+|  ✈️ Telegram |  `YOUR_TELEGRAM_USERNAME` |
+| 📸 Instagram | `YOUR_INSTAGRAM_USERNAME` |
+
+</div>
+
+> 🔧 Yuqoridagi username'larni o‘zingnikiga almashtir.
+
+---
+
+# 🌌 20 — Yakun
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║        🚀 THANKS FOR VISITING! 🚀        ║
+║                                          ║
+║   🌐 HTML                             ║
+║   🎨 CSS                              ║
+║   ⚡ JavaScript                       ║
+║   ⚛️ React                            ║
+║                                          ║
+║        KEEP CODING • KEEP LEARNING       ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+### 💻 Kod yozish — mening kreativ maydonim.
+
+**🌐 HTML   •   🎨 CSS   •   ⚡ JavaScript   •   ⚛️ React**
+
+### ⭐ Profilimga xush kelibsiz!
 
 </div>
 
 ---
 
-# 💭 18. Motivatsiya
-
 <div align="center">
 
-> **“Har bir katta loyiha birinchi qatordan boshlanadi.”** 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1700&pause=600&color=00F7FF&center=true&vCenter=true&width=750&lines=Sabr+%E2%80%A2+O'rganish+%E2%80%A2+Rivojlanish+%E2%80%A2+Amaliyot;Har+kun+kechagidan+ko'proq+bilish+%F0%9F%92%AA"/>
-
-</div>
-
----
-
-# 🤝 19. Aloqa
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://t.me/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ 20. Yakun
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2FFF,100:00F7FF&height=170&section=footer&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=800&lines=Kod+yozish+%E2%80%94+mening+kreativ+maydonim.;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Thanks+for+visiting+my+profile!+%F0%9F%9A%80"/>
-
-<br>
-
-### 🌐 HTML   •   🎨 CSS   •   ⚡ JavaScript   •   ⚛️ React
-
-⭐ **Profilimga xush kelibsiz!**
+`Made with ❤️ and lots of code 🚀`
 
 </div>
